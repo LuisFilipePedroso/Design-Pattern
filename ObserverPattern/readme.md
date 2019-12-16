@@ -6,7 +6,7 @@ Create a solution that allows send an email every moment that a new product is r
 
 ## 👨🏻‍🔧 Technologies
 
-To implement this problem, was used Typescript.
+To resolve this problem, was used Typescript.
 
 ## 📝 Explation of the code
 
